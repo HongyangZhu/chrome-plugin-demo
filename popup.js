@@ -1,0 +1,1 @@
+document.getElementById('content').innerText = '每日刷题!    ' + new Date().toLocaleString();
